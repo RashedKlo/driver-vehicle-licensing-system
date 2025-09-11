@@ -1,0 +1,9 @@
+F:\repos\DVLD\Business Access Layer\PeopleBusiness\bin\Debug\PeopleBusiness.dll
+F:\repos\DVLD\Business Access Layer\PeopleBusiness\bin\Debug\PeopleBusiness.pdb
+F:\repos\DVLD\Business Access Layer\PeopleBusiness\obj\Debug\PeopleBusiness.csproj.CoreCompileInputs.cache
+F:\repos\DVLD\Business Access Layer\PeopleBusiness\obj\Debug\PeopleBusiness.dll
+F:\repos\DVLD\Business Access Layer\PeopleBusiness\obj\Debug\PeopleBusiness.pdb
+F:\repos\DVLD\Business Access Layer\PeopleBusiness\bin\Debug\PeopleData.dll
+F:\repos\DVLD\Business Access Layer\PeopleBusiness\bin\Debug\PeopleData.pdb
+F:\repos\DVLD\Business Access Layer\PeopleBusiness\obj\Debug\PeopleBusiness.csproj.CopyComplete
+F:\repos\DVLD\Business Access Layer\PeopleBusiness\obj\Debug\PeopleBusiness.csproj.AssemblyReference.cache

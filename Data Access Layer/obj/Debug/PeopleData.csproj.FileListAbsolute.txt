@@ -1,0 +1,6 @@
+F:\repos\DVLD\Data Access Layer\PeopleData\bin\Debug\PeopleData.dll
+F:\repos\DVLD\Data Access Layer\PeopleData\bin\Debug\PeopleData.pdb
+F:\repos\DVLD\Data Access Layer\PeopleData\obj\Debug\PeopleData.csproj.CoreCompileInputs.cache
+F:\repos\DVLD\Data Access Layer\PeopleData\obj\Debug\PeopleData.dll
+F:\repos\DVLD\Data Access Layer\PeopleData\obj\Debug\PeopleData.pdb
+F:\repos\DVLD\Data Access Layer\PeopleData\obj\Debug\PeopleData.csproj.AssemblyReference.cache

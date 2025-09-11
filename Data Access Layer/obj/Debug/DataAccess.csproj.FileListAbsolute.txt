@@ -1,0 +1,17 @@
+F:\repos\DVLD\Data Access Layer\PeopleData\bin\Debug\PeopleData.pdb
+F:\repos\DVLD\Data Access Layer\PeopleData\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+F:\repos\DVLD\Data Access Layer\PeopleData\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+F:\repos\DVLD\Data Access Layer\PeopleData\obj\Debug\PeopleData.dll
+F:\repos\DVLD\Data Access Layer\PeopleData\obj\Debug\PeopleData.pdb
+F:\repos\DVLD\Data Access Layer\PeopleData\obj\Debug\DataAccess.csproj.CopyComplete
+F:\repos\DVLD\Data Access Layer\Data Access\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+F:\repos\DVLD\Data Access Layer\Data Access\bin\Debug\DataAccess.dll
+F:\repos\DVLD\Data Access Layer\Data Access\bin\Debug\DataAccess.pdb
+F:\repos\DVLD\Data Access Layer\Data Access\obj\Debug\DataAccess.dll
+F:\repos\DVLD\Data Access Layer\Data Access\obj\Debug\DataAccess.pdb
+F:\repos\MySolution\MySolutionDVLD\Data Access Layer\Data Access\bin\Debug\DataAccess.dll
+F:\repos\MySolution\MySolutionDVLD\Data Access Layer\Data Access\bin\Debug\DataAccess.pdb
+F:\repos\MySolution\MySolutionDVLD\Data Access Layer\Data Access\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+F:\repos\MySolution\MySolutionDVLD\Data Access Layer\Data Access\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+F:\repos\MySolution\MySolutionDVLD\Data Access Layer\Data Access\obj\Debug\DataAccess.dll
+F:\repos\MySolution\MySolutionDVLD\Data Access Layer\Data Access\obj\Debug\DataAccess.pdb
